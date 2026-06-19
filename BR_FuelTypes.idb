@@ -1,0 +1,11 @@
+FileTable,4,06.05.2025 14:59:29;
+FID,number,14;FSym,char,20;FName,char,50;Unused,number,14;
+FID           |FSym                |FName                                             |Unused        |
+100           |BLAW                |BLAW                                              |1             |
+104           |362WG               |362WG                                             |0             |
+150           |BLAWR               |BLAWR                                             |1             |
+160           |382RR               |382RR                                             |0             |
+159           |381VR               |381VR                                             |0             |
+157           |362WR               |362WR                                             |0             |
+105           |381VG               |381VG                                             |0             |
+102           |347WG               |347WG                                             |0             |

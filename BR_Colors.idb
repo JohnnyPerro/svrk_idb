@@ -1,0 +1,21 @@
+FileTable,8,24.12.2024 12:00:00.000;
+FieldName,char,16;LoVal,number,14;HiVal,number,14;DynPerc,number,14;R,number,14;G,number,14;B,number,14;Num,number,14;
+FieldName       |LoVal         |HiVal         |DynPerc       |R             |G             |B             |Num           |
+SZ              |-1            |5             |              |0             |63            |127           |11            |
+SZ              |5             |95            |              |0             |191           |255           |12            |
+SZ              |95            |101           |              |127           |255           |127           |13            |
+SZsm            |-2            |17            |              |0             |63            |127           |11            |
+SZsm            |17            |337           |              |0             |191           |255           |12            |
+SZsm            |337           |357           |              |127           |255           |127           |13            |
+CAS_YEAR        |0.5           |1.5           |              |175           |255           |175           |21            |
+CAS_YEAR        |1.5           |2.5           |              |175           |255           |255           |22            |
+CAS_YEAR        |2.5           |3.5           |              |255           |150           |75            |23            |
+CAS_YEAR        |3.5           |4.5           |              |255           |100           |100           |24            |
+DEGR            |0             |20            |              |63            |160           |63            |30            |
+Default         |              |              |0             |0             |100           |225           |100           |
+Default         |              |              |3             |0             |100           |225           |110           |
+Default         |              |              |3             |0             |127           |255           |120           |
+Default         |              |              |75            |255           |255           |255           |130           |
+Default         |              |              |97            |255           |135           |75            |140           |
+Default         |              |              |97            |225           |105           |25            |150           |
+Default         |              |              |100           |225           |105           |25            |160           |

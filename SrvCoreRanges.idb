@@ -1,0 +1,20 @@
+FileTable,7,15.07.2008 10:00:00.000, SU-2 15.07.2008;
+ShortName,char,16;NVGName,char,16;VVGName,char,16;NAGName,char,16;VAGName,char,16;NRGName,char,16;VRGName,char,16;
+ShortName       |NVGName         |VVGName         |NAGName         |VAGName         |NRGName         |VRGName         |
+QVMF            |                |                |                |usQVMFxxxyy     |                |                |
+KQ              |                |                |                |usKQxxx         |                |                |
+KV7L            |                |                |                |usKV7Lxxxy      |                |                |
+YCTTP           |                |                |                |usYC00Txx       |                |                |
+YCTDTTP         |                |                |                |usYC00T_DTTPxx  |                |                |
+YC70P_A         |                |                |nagYC70P_A      |                |                |                |
+YCN_A           |                |                |                |vagYCN_A        |                |vrgYCN_A        |
+YAF_S           |                |                |nagYAF_S        |vagYAF_S        |                |                |
+OFST            |                |                |nagOFST         |vagOFST         |nrgOFST         |vrgOFST         |
+YC14P03         |                |                |nagYC14P03      |vagYC14P03      |                |                |
+YC70P06B1       |                |                |nagYC70P06B1    |                |                |                |
+YC70P04B1       |                |                |nagYC70P04B1    |                |                |                |
+YA00T_DT_A      |                |                |                |vagYA00T_DT_A   |                |                |
+YA10T_DT        |                |                |                |vagYA10T_DT     |                |                |
+YA20T_DT        |                |                |                |vagYA20T_DT     |                |                |
+YA30T_DT        |                |                |                |vagYA30T_DT     |                |                |
+YA40T_DT        |                |                |                |vagYA40T_DT     |                |                |

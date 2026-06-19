@@ -1,0 +1,3 @@
+FileTable,2,01.01.1970 03:00:00.000;
+ListID,number,14;ShortName,char,16;
+ListID        |ShortName       |

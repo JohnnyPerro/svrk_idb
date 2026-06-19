@@ -1,0 +1,9 @@
+FileTable,2,08.12.2009 11:47:18.000, Access ;
+Value,number,14;Text,char,20;
+Value         |Text                |
+0             |Вкл                 |
+1             |Откл                |
+2             |Закр                |
+3             |Неопр               |
+4             |Выбег               |
+5             |Разгон              |

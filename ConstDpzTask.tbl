@@ -1,0 +1,5 @@
+FileTable,4,25.03.2020 07:25:00.000;
+ConstName,char,32;ConstValue,number,14;ConstMUnit,char,16;FullName,char,100;
+ConstName                       |ConstValue    |ConstMUnit      |FullName                                                                                            |
+UST                             |1500.0        |МВт             |М╕н╕мальна Nakz для початку роботи задач╕                                                           |
+MAXDEV                          |5.0           |%               |Допустима межа в╕дхилень контрольних ДПЗ                                                            |
